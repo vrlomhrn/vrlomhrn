@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋, I'm Virlo Mahrian</h1>
-<h3 align="center">A junior web developer</h3>
+<h3 align="center">A web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrlomhrn&label=Profile%20views&color=0e75b6&style=flat" alt="vrlomhrn" /> </p>
 
