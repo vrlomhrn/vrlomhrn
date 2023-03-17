@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrlomhrn" alt="vrlomhrn" /></a> </p>
 
-- 🌱 I’m currently learning **laravel 9, reactjs**
+- 🌱 I’m currently learning **laravel 10**
 
 - 💬 Ask me about **html, css, javascript and php**
 
