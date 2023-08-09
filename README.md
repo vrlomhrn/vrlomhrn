@@ -1,7 +1,9 @@
 <h1 align="center">Hi there!👋, I'm Virlo Mahrian</h1>
-<h3 align="center">A web developer</h3>
+<h3 align="center">Fullstack Web Developer</h3>
 
-- 💬 Ask me about **html, css, javascript and php**
+- 💬 Ask me about **NextJS, NuxtJS, Typescript, NodeJS**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrlomhrn&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
