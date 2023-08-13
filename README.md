@@ -18,4 +18,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrlomhrn&" alt="vrlomhrn" /></p>
 
 <h3>Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=test&show_icons=true&locale=en" alt="test" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrlomhrn&show_icons=true&locale=en" alt="test" /></p>
