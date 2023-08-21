@@ -3,7 +3,7 @@
 
 - Ask me about **Typescript, Python**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrlomhrn&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrlomhrn"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
