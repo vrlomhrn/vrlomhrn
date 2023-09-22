@@ -1,5 +1,4 @@
-# Virlo Mahrian
-## Software Engineer
+# Virlo Mahrian - Software Engineer
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/vrlomhrn/count.svg?"  />
@@ -7,11 +6,19 @@
 
 <img align="right" height="100" src="https://avatars.githubusercontent.com/u/91576905?v=4"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vrlomhrn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrlomhrn" height="30" width="40" /></a>
-  <a href="https://instagram.com/vrlomhrn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrlomhrn" height="30" width="40" /></a>
-</p>
+### Connect with me:
+<div align="left">
+  <a href="https://linkedin.com/in/vrlomhrn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/vrlomhrn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+  </a>
+</div>
+
 
 ### Languages and Tools:
 
