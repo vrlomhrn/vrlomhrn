@@ -94,7 +94,7 @@
 ### Stats:
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=vrlomhrn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=vrlomhrn&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vrlomhrn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
