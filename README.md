@@ -1,8 +1,13 @@
 <div align="center">
-  ![readmebox](https://github.com/vrlomhrn/vrlomhrn/blob/main/readmebox.svg)
+  <img align="center" height="100" src="https://avatars.githubusercontent.com/u/91576905?v=4"  /> 
 </div>
 
-<img align="right" height="100" src="https://avatars.githubusercontent.com/u/91576905?v=4"  />
+#
+<div align="center">
+  <img src="https://github.com/vrlomhrn/vrlomhrn/blob/main/readmebox.svg" />
+</div>
+
+#
 
 ### Connect with me:
 <div align="left">
