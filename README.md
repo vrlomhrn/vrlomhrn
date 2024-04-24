@@ -1,7 +1,5 @@
-# Virlo Mahrian - Software Engineer
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/vrlomhrn/count.svg?"  />
+  ![readmebox](https://github.com/vrlomhrn/vrlomhrn/blob/main/readmebox.svg)
 </div>
 
 <img align="right" height="100" src="https://avatars.githubusercontent.com/u/91576905?v=4"  />
@@ -86,8 +84,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
